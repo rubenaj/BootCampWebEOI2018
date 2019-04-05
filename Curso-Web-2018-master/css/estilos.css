@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+*{
+	box-sizing: border-box; /*borde de las imagenes*/
+}
+body {
+	background-image:url(../img/background.jpg);
+	background-size: 150%;
+	background-repeat:no-repeat;
+	text-align: center;
+}
+footer{
+	background-color: white;
+}
+
+a{
+ position: right;
+}
+
+h1{
+	color: white;
+}
+
+h2{
+	color: white;
+}
+
+p {
+	color: white;
+}
+
+#destacada {
+	width: 100px;
+	height: 100px;
+}
